@@ -2,7 +2,7 @@
 
 
 
-######Инструмент сканирования Nmap:
+#####Инструмент сканирования Nmap:
 
     1) Сканирование всех портов tcp!
     2) Обноружение ОС.
@@ -37,4 +37,7 @@ cd PyNmap
 sudo pip3 install -r requirements.txt
 sudo python3 py-nmap.py
 ```
+Автор: myth-dev
+
 <a href="https://www.instagram.com/hackingworld_d/" target="_blank">INSTAGRAM</a>
+<a href="https://mython.uz/" target="_blank">WEBSITE</a>
