@@ -1,5 +1,6 @@
 # PyNmap
-PyNmap tool for scanning(tcp, udp,  nse.vulners, os)
+
+Nmap scanning tool (Scan all tcp ports!, OS detection, UDP scan, Scan all known vulnerabilities, Scan all known ports!)
 
 1: sudo apt update -y 
 
