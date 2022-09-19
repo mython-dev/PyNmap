@@ -1,21 +1,40 @@
-# PyNmap
+# PyNmap Tool!
 
-Nmap scanning tool (Scan all tcp ports!, OS detection, UDP scan, Scan all known vulnerabilities, Scan all known ports!)
 
-1: sudo apt update -y 
 
-2: sudo apt upgrade -y
+######Инструмент сканирования Nmap:
 
-3: sudo apt install python3
+    1) Сканирование всех портов tcp!
+    2) Обноружение ОС.
+    3) Сканирование UDP.
+    4) Сканирование всех известных уязвимостей.
+    5) Сканирование всех известный портов.
 
-4: sudo apt install python3-pip
 
-5: sudo apt install git
-
-6: git clone github.com/myth-dev-1337/PyNmap.git
-
-7: cd PyNmap
-
-8: sudo pip3 install -r requirements.txt
-
-9: sudo python3 py-nmap.py
+1: Сначало нужно обнавить пакеты
+```
+sudo apt update -y && apt upgrade -y
+```
+2:  Установка python
+```
+sudo apt install python3
+```
+3: Установка pip3
+```
+sudo apt install python3-pip
+```
+4:  Установка git
+```
+sudo apt install git
+```
+5: Установка сам инструмента
+```
+git clone github.com/myth-dev-1337/PyNmap.git
+```
+6: Запуск инструмента
+```
+cd PyNmap
+sudo pip3 install -r requirements.txt
+sudo python3 py-nmap.py
+```
+<a href="https://www.instagram.com/hackingworld_d/" target="_blank">INSTAGRAM</a>
