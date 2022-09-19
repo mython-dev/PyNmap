@@ -19,7 +19,7 @@ sudo apt install git
 ```
 2. 📁 Клонируйте репозиторию.
 ```
-git clone github.com/myth-dev-1337/PyNmap.git
+git clone https://github.com/myth-dev-1337/PyNmap
 ```
 3. 📝 Запуск инструмента.
 ```
