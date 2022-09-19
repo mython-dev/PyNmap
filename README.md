@@ -1,5 +1,5 @@
 # PyNmap
-PyNmap tool for scanning(tcp, udp,  vulners, os)
+PyNmap tool for scanning(tcp, udp,  nse.vulners, os)
 
 1: sudo apt update -y 
 
