@@ -14,8 +14,8 @@
 1. Установите необходимые зависимости:
 ```
 sudo apt update -y && apt upgrade -y
-sudo apt install python3 && apt install python3-pip &&
-apt install git
+sudo apt install python3 &&  sudo apt install python3-pip &&
+sudo apt install git
 ```
 2. Клонировать репозиторий
 ```
