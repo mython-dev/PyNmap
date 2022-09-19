@@ -9,8 +9,12 @@ PyNmap tool for scanning(tcp, udp,  vulners, os)
 
 4: sudo apt install python3-pip
 
-5: cd PyNmap
+5: sudo apt install git
 
-5: sudo pip3 install -r requirements.txt
+6: git clone github.com/myth-dev-1337/PyNmap.git
 
-6: sudo python3 py-nmap.py
+7: cd PyNmap
+
+8: sudo pip3 install -r requirements.txt
+
+9: sudo python3 py-nmap.py
