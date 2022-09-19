@@ -11,27 +11,17 @@
     Сканирование всех известный портов.
 
 
-1: Сначало нужно обнавить пакеты
+1: Установите необходимые зависимости:
 ```
 sudo apt update -y && apt upgrade -y
+sudo apt install python3 && apt install python3-pip 
+&& apt install git
 ```
-2:  Установка python
-```
-sudo apt install python3
-```
-3: Установка pip3
-```
-sudo apt install python3-pip
-```
-4:  Установка git
-```
-sudo apt install git
-```
-5: Установка сам инструмента
+2: Клонировать репозиторий
 ```
 git clone github.com/myth-dev-1337/PyNmap.git
 ```
-6: Запуск инструмента
+3: Запуск инструмента
 ```
 cd PyNmap
 sudo pip3 install -r requirements.txt
