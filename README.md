@@ -11,17 +11,17 @@
     Сканирование всех известный портов.
 
 
-1: Установите необходимые зависимости:
+1. Установите необходимые зависимости:
 ```
 sudo apt update -y && apt upgrade -y
 sudo apt install python3 && apt install python3-pip 
 && apt install git
 ```
-2: Клонировать репозиторий
+2. Клонировать репозиторий
 ```
 git clone github.com/myth-dev-1337/PyNmap.git
 ```
-3: Запуск инструмента
+3. Запуск инструмента
 ```
 cd PyNmap
 sudo pip3 install -r requirements.txt
