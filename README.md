@@ -1,4 +1,4 @@
-# ⭐️ PyNmap Tool!
+# ⭐️ PyNmap!
 
 
 
