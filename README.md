@@ -34,4 +34,4 @@ sudo python3 py-nmap.py
 
 <a href="https://mython.uz/" target="_blank">🌐 WEBSITE</a>
 
-<a href="@myth_dev" target="_blank">💬 TELEGRAM</a>
+<a href="https://t.me/myth_dev" target="_blank">💬 TELEGRAM</a>
