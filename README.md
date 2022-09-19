@@ -17,7 +17,7 @@ sudo apt update -y && apt upgrade -y
 sudo apt install python3 &&  sudo apt install python3-pip &&
 sudo apt install git
 ```
-2. 👨‍💻 Клонировать репозиторий
+2. 📁 Клонировать репозиторий
 ```
 git clone github.com/myth-dev-1337/PyNmap.git
 ```
