@@ -1,16 +1,16 @@
 # PyNmap
 PyNmap tool for scanning(tcp, udp,  vulners, os)
 
-sudo apt update -y 
+1: sudo apt update -y 
 
-sudo apt upgrade -y
+2: sudo apt upgrade -y
 
-sudo apt install python3
+3: sudo apt install python3
 
-sudo apt install python3-pip
+4: sudo apt install python3-pip
 
-cd PyNmap
+5: cd PyNmap
 
-pip3 install -r requirements.txt
+5: pip3 install -r requirements.txt
 
-sudo python3 py-nmap.py
+6: sudo python3 py-nmap.py
