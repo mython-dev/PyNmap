@@ -2,9 +2,6 @@
 
 # Возможно мой код == говно_код 
 
-# if moy_cod == govno_kod:
-    #print('ne yuzay moy script!')
-
 import nmap
 import socket
 import time
