@@ -14,7 +14,7 @@
 ```
 git clone https://github.com/myth-dev-1337/PyNmap
 cd PyNmap
-bash install.sh
+sudo bash install.sh
 ```
 Автор: 👨‍💻 myth-dev
 ### 🌐 Социальные сети:
