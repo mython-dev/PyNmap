@@ -2,7 +2,7 @@
 
 ![](https://img.shields.io/badge/Python-3-blue)
 <br>
-![](https://img.shields.io/badge/bash-blue)
+![](https://img.shields.io/badge/bash-dark)
 
 🔧 Инструмент для:
 
