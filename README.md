@@ -1,6 +1,7 @@
 # ⭐️ PyNmap!
 
-
+![](https://img.shields.io/badge/Python-3-blue)
+![](https://img.shields.io/badge/bash-blue)
 
 🔧 Инструмент для:
 
