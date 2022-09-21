@@ -2,7 +2,8 @@
 
 ![](https://img.shields.io/badge/Python-3-blue)
 ![](https://img.shields.io/badge/bash-dark)
-![](https://img.shields.io/badge/platform-Linux%20%7C%20KaliLinux)
+![](https://img.shields.io/badge/platform-Linux%20%7C%20KaliLinux%20%7C%20ParrotOs-blue)
+![](https://img.shields.io/github/last-commit/mython-dev/PyNmap)
 
 🔧 Инструмент для:
 
