@@ -1,8 +1,8 @@
 # ⭐️ PyNmap!
 
 ![](https://img.shields.io/badge/Python-3-blue)
-<br>
 ![](https://img.shields.io/badge/bash-dark)
+![](https://img.shields.io/badge/platform-Linux%20%7C%20KaliLinux)
 
 🔧 Инструмент для:
 
