@@ -15,7 +15,7 @@
 
 1. 📝 Запуск инструмента.
 ```
-git clone https://github.com/myth-dev-1337/PyNmap
+git clone https://github.com/mython-dev/PyNmap
 cd PyNmap
 sudo bash install.sh
 ```
