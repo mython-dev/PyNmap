@@ -1,12 +1,11 @@
 # /usr/bin/python3
 
-# Возможно мой код == говно_код 
-
-import nmap
-import socket
-import time
-import os
-import sys 
+ 
+try:
+    import nmap
+    import socket
+except ImportError:
+    print("Please run: sudo bash install.sh")
 
 # Фрагменты цвета
 
